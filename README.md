@@ -1,5 +1,79 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>•Building Agentic AI applications (resume-based job automation, workflow agents, etc.)<br><br>•Improving my DSA & problem-solving (LeetCode consistency)<br><br>•Backend development with scalable architecture practices<br><br>•Exploring real-world AI integrations using APIs & automation tools<br><br>👯 I’m looking to collaborate on<br><br>•Open source AI/ML projects<br><br>•Developer tools & productivity SaaS products<br><br>•Early-stage startup ideas (especially AI-first products)<br><br>•Backend-heavy or system-design-oriented projects<br><br>🤝 I’m looking for help with<br><br>•Writing production-grade scalable backend systems<br><br>•Contributing effectively to large open source repositories<br><br>•Advanced system design & distributed systems concepts<br><br>•Shipping MVPs faster with clean architecture<br><br>🌱 I’m currently learning<br><br>•Advanced DSA & competitive problem-solving<br><br>•System Design fundamentals<br><br>•Agentic AI frameworks (LangChain, LangGraph concepts)<br><br>•Clean code & software architecture principles<br><br>💬 Ask me about<br><br>•Agentic AI ideas & automation workflows<br><br>•Resume-driven job automation systems<br><br>•DSA preparation strategies<br><br>•Backend development basics<br><br>•Getting started with open source
+# 💫 About Me:<h1 align="center">🚀 Developer Profile</h1>
+
+<p align="center">
+  <b>AI • Backend • Agentic Systems • Open Source • Startups</b>
+</p>
+
+<hr/>
+
+<h2>🔭 I’m Currently Working On</h2>
+
+<ul>
+  <li>🤖 <b>Building Agentic AI applications</b> (resume-based job automation, workflow agents)</li>
+  <li>🧠 <b>Improving DSA & problem-solving</b> (LeetCode consistency)</li>
+  <li>⚙️ <b>Backend development</b> with scalable architecture practices</li>
+  <li>🔌 Exploring real-world <b>AI integrations</b> using APIs & automation tools</li>
+</ul>
+
+<hr/>
+
+<h2>👯 I’m Looking to Collaborate On</h2>
+
+<ul>
+  <li>🌍 Open source AI/ML projects</li>
+  <li>🛠 Developer tools & productivity SaaS products</li>
+  <li>🚀 Early-stage startup ideas (AI-first products)</li>
+  <li>🏗 Backend-heavy or system-design-oriented projects</li>
+</ul>
+
+<hr/>
+
+<h2>🤝 I’m Looking for Help With</h2>
+
+<ul>
+  <li>📈 Writing production-grade scalable backend systems</li>
+  <li>📦 Contributing effectively to large open source repositories</li>
+  <li>🧩 Advanced system design & distributed systems concepts</li>
+  <li>⚡ Shipping MVPs faster with clean architecture</li>
+</ul>
+
+<hr/>
+
+<h2>🌱 I’m Currently Learning</h2>
+
+<ul>
+  <li>📚 Advanced DSA & competitive problem-solving</li>
+  <li>🏛 System Design fundamentals</li>
+  <li>🔗 Agentic AI frameworks (LangChain, LangGraph)</li>
+  <li>🧼 Clean code & software architecture principles</li>
+</ul>
+
+<hr/>
+
+<h2>💬 Ask Me About</h2>
+
+<ul>
+  <li>🤖 Agentic AI ideas & automation workflows</li>
+  <li>📄 Resume-driven job automation systems</li>
+  <li>🧠 DSA preparation strategies</li>
+  <li>⚙️ Backend development basics</li>
+  <li>🌱 Getting started with open source</li>
+</ul>
+
+<hr/>
+
+<h2>⚡ Fun Fact</h2>
+
+<p>
+  I’m genuinely excited about <b>building in public</b>, contributing to <b>open source</b>, 
+  and working with <b>startups</b> where speed, ownership, and impact matter more than titles.
+</p>
+
+<hr/>
+
+<p align="center">
+  <i>⚡ Building fast. Learning faster. Shipping consistently.</i>
+</p>
 
 
 ## 🌐 Socials:
